@@ -1,7 +1,6 @@
 <!---
 藏好自己，做好清理
 --->
-# [strobecat](https://github.com/strobecat/strobecat/issues)
 消灭人类暴政，世界属于猫猫
 
 
