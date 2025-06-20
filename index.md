@@ -1,8 +1,9 @@
 <!---
 藏好自己，做好清理
 --->
-消灭人类暴政，世界属于猫猫
+### 消灭人类暴政，世界属于猫猫
 
+- 2025-06-20 - [用TWRP修理损坏的postmarketOS boot](articles/20250620-fix-postmarketos-boot.html)
 
 ------------
 <a href="https://travel.moe/go.html" target="_blank">
